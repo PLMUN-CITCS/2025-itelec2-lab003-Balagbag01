@@ -22,6 +22,7 @@ print("Decimal:", decimal_value)
 print("Text:", message)
 print("Boolean:", is_active)
 print("None Value:", result)
+
 num1 = 5
 num2 = 3
 sum_result = num1 + num2  # Performing addition
