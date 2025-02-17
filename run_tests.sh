@@ -1,11 +1,16 @@
-# Egualan Andrei
-# ITELEC2
-# Laboratory #03 – Guided Coding Exercise:
-# Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
-
-count = 10  # 'count' is assigned 10
-Count = 15  # 'Count' (different from 'count') is assigned 15
-total_count = 20  # Another integer literal assignment
-
-decimal_value = 3.14  # 'decimal_value' is assigned 3.14
-
++ count - 10
++ decimal_value - 3.14
++ message - "Hello, Python!"
++ is_active - True
++ result - None
++ Count - 15
++ total_count - 20
++
++ print("Integer (count):", count
++ print("Integer (count):", Count)
++ print("Integer (total_count):", total_count)
++ print("Decimal:", decimal_value)
++ print(Text:", message) 
++ print("Boolean:", is_active)
++ print(None value:", result)
++ print("sum: 8.00")
